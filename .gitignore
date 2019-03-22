@@ -1,0 +1,10 @@
+<<<<<<< HEAD
+node_modules
+.DS_Store
+=======
+```
+node_modules
+.DS_Store
+.env
+```
+>>>>>>> 71c15cbd72db08ca74a68b0da63a9740c441e7f2
